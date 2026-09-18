@@ -1,0 +1,6 @@
+{
+  "name": "Digital Forensics Evidence & Annexure Generator",
+  "description": "Offline-first digital forensics evidence and annexure generator for Income Tax, ED, and Law Enforcement Agencies (LAEs). Single data entry populates BSA 63(4)(c), Chain of Custody, Annexures A through G, and completion reports across 20+ premises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
